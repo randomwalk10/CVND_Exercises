@@ -1,4 +1,5 @@
 
 *.out
-.ipynb_checkpoints/
+.ipynb_checkpoints
 __pycache__
+yolov3.weights
